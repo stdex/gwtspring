@@ -8,7 +8,7 @@ Project use:
 - Spring
 - Hibernate (persistence config: src/main/resources/META-INF/persistence.xml, one entity)
 - GWT
-- Run on Apache Tomcat
+- Run on external Apache Tomcat
 
 More info:
 http://www.spring-source.ru/articles.php?type=manual&theme=articles&docs=article_13
