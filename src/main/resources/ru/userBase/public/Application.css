@@ -1,0 +1,48 @@
+/** Add css rules here for your application. */
+
+button {
+  display: block;
+  font-size: 16pt
+}
+
+.widePanel {
+  width: 100%
+}
+
+img {
+  margin-top: 20px;
+}
+
+.sendButton {
+
+}
+
+.dialogVPanel {
+
+}
+
+.serverResponseLabelError {
+
+}
+
+.newbutton {
+    color: red;
+    display: block;
+    font-size: 16pt
+}
+
+.gwtButton, .buttonCell.getButton {
+    margin: 0;
+    padding: 5px 7px;
+    text-decoration: none;
+    cursor: pointer;
+    cursor: hand;
+    font-size:small;
+    background: black;
+    border:1px solid #bbb;
+    border-bottom: 1px solid #a0a0a0;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    color: white;
+
+}
